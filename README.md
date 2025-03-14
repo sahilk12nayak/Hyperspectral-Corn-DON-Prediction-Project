@@ -4,7 +4,7 @@ This project contains a machine-learning pipeline for predicting DON (vomitoxin)
 Installation
 
 1. Clone this repository:
-git clone https://github.com/sahil12nayak/hyperspectral-corn-analysis.git
+git clone https://github.com/sahilk12nayak/Hyperspectral-Corn-DON-Prediction-Project.git
 cd hyperspectral-corn-analysis
 
 Usage
